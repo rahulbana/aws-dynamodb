@@ -3,8 +3,8 @@ AWS Dynamodb Tutorials
 
 
 ### How to configure
-<br>
-#### Open terminal and type 
+<br><br>
+**Open terminal and type **
 <br>
 aws configure
 <br>
