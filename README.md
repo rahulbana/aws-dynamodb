@@ -3,15 +3,19 @@ AWS Dynamodb Tutorials
 
 
 ### How to configure
-
+<br>
+#### Open terminal and type 
+<br>
 aws configure
+<br>
+<br>
+<br>
+[default]<br>
+aws_access_key_id = YOUR_ACCESS_KEY<br>
+aws_secret_access_key = YOUR_SECRET_KEY<br>
 
-[default]
-aws_access_key_id = YOUR_ACCESS_KEY
-aws_secret_access_key = YOUR_SECRET_KEY
 
 
 
-
-[default]
+[default]<br>
 region=us-east-1
